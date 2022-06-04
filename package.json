@@ -1,0 +1,19 @@
+{
+  "name": "bin2dec",
+  "version": "1.0.0",
+  "description": "program to converte binary to decimal",
+  "main": "script.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/LAMSSAOUI/bin2dec.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/LAMSSAOUI/bin2dec/issues"
+  },
+  "homepage": "https://github.com/LAMSSAOUI/bin2dec#readme"
+}
